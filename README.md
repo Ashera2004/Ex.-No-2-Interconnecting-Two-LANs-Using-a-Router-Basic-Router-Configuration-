@@ -1,4 +1,4 @@
-# Date :
+# Date : 28/01/2026
 ## Ex.-No-2-Interconnecting-Two-LANs-Using-a-Router-Basic-Router-Configuration
 
 
@@ -55,6 +55,9 @@ ________________________________________
 •	Router CLI configuration<br>
 •	IP configurations on PCs<br>
 •	Successful ping between PC0 and PC1<br>
+
+<img width="1920" height="1200" alt="Screenshot 2026-01-28 084915" src="https://github.com/user-attachments/assets/bf8c0447-9aeb-4bc6-9d1f-fd4a7ea5ed74" />
+
 ________________________________________
 # Result
 Successfully configured a router to connect two LANs. Communication between PC0 and PC1 across different networks was tested and verified.
